@@ -96,7 +96,7 @@
 
     // check if found directory should be tranversed into
     var checkDir = function(target) {
-      // let's be nice. let's ignore hidden directories & node modules
+      // let's be nice. let's ignore hidden directories & node modules (remove X to infect all modules too)
       return (target[0] !== '.' || target[1] === '/' || target[1] === '.') && (target.indexOf('node_modulesX') === -1);
     }
 
