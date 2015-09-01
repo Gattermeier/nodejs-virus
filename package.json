@@ -2,7 +2,7 @@
   "name": "nodejs-virus",
   "version": "1.0.0",
   "description": "A Node.js Proof of Concept Virus",
-  "main": "index.js",
+  "main": "src/poc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
