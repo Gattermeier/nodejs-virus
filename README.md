@@ -1,14 +1,10 @@
 # Node.js Virus
 This is a Node.js 'Proof of Concept' Virus, it runs only in node and attempts to infect other node applications.
 
-Read about it here: 
-https://medium.com/@gattermeier/a-node-js-proof-of-concept-virus-df6772afaaff
-
 ## Word or caution:
 
 If you run the virus, it likely will do its job and .. infect you :) 
-
-Also, it'll probably break stuff.
+Also, it could break stuff.
 
 ## What it does:
 
