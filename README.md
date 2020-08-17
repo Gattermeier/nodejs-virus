@@ -1,5 +1,4 @@
 # Node.js Virus
-[![devDependency Status](https://david-dm.org/Gattermeier/nodejs-virus/dev-status.svg)](https://david-dm.org/Gattermeier/nodejs-virus#info=devDependencies)    
 
 This is a Node.js 'Proof of Concept' Virus, it runs only in node and attempts to infect other node applications.
 
